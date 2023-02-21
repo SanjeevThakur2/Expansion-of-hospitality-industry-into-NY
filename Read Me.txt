@@ -1,0 +1,16 @@
+﻿Data Assumptions:
+1. All units in the dataset are residential units only
+2. Price is equivalent to revenue
+3. I have made assumptions to answer business questions (considering the perspective of a business client ) with appropriate formatting and data storytelling.
+4. I have included one line of code to install the geopy module, assuming that it is not installed in your system. In case it is already installed in your system, then I  request you to #comment the first line (in the jupyter notebook).
+5. I have tried to answer all the questions instead of just 5 so please go through both the tableau file and ppt fully.
+
+
+Scope:
+1. Applicable for only NYC State due to data limitations.
+2. Only residential units (the type of which found in Airbnb) are covered under this analysis
+3. Hotels are out of scope for this dataset as the airbnb data is from the period where they did not list hotels.
+Limitations:
+1. Insights gathered from airbnb data as such will be subjected to the same limitations within the airbnb data
+2. Due to some missing values and some outliers present in the dataset, I have tried to make the best guess to fix missing values. It is not 100% accurate but is very close to it.
+3. Lack of data on residential and commercial units forced a few assumptions to answer the questions.
