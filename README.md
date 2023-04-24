@@ -14,7 +14,7 @@ The project is applicable only for New York State due to data limitations.
 Only residential units (the type of which found in Airbnb) are covered under this analysis.
 Hotels are out of scope for this dataset as the Airbnb data is from a period where they did not list hotels.
 
-##Limitations:
+## Limitations:
 Insights gathered from the Airbnb data will be subject to the same limitations within the Airbnb data.
 Due to some missing values and outliers in the dataset, assumptions have been made to fill in missing values. These assumptions may not be 100% accurate.
 Lack of data on residential and commercial units has forced a few assumptions to answer questions.
